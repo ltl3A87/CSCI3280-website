@@ -7,14 +7,13 @@ course_semester: "Spring 2025"
 baseurl: "/CSCI3280-website" # the subpath of your site, e.g. /blog/
 url: "http:/ltl3A87.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "CUHK"
+schoolurl: "https://www.cuhk.edu.hk"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Department of Computer Science & Engineering
+    The Chinese University of Hong Kong
+    Hong Kong
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
