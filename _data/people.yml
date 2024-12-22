@@ -1,12 +1,12 @@
 instructors:
   - name: Cheng Yu
     profile_pic: /_images/pp/instructor.jpg
-    webpage: https://ych133.github.io/
+    webpage: https://ych133.github.io
 
 teaching_assistants:
   - name: Zhang Jihai
     profile_pic: /_images/pp/jihaizhang.jpg
-    webpage: https://majordavidzhang.github.io/
+    webpage: https://majordavidzhang.github.io
 
   - name: Li Tianle
     profile_pic: /_images/pp/tianleli.jpg
