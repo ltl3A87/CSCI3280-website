@@ -1,15 +1,15 @@
 instructors:
   - name: Cheng Yu
-    profile_pic: /_images/pp/instructor.jpeg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    profile_pic: /_images/pp/instructor.jpg
+    webpage: https://ych133.github.io/
 
 teaching_assistants:
   - name: Zhang Jihai
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+    profile_pic: /_images/pp/jihaizhang.jpg
+    webpage: https://majordavidzhang.github.io/
 
   - name: Li Tianle
-    profile_pic: /_images/pp/tianleli.jpeg
+    profile_pic: /_images/pp/tianleli.jpg
     webpage: https://ltl3a87.github.io/tianleli.github.io
 
   - name: Ron Weasley
