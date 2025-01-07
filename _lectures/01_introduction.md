@@ -1,19 +1,12 @@
 <!--
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2025-01-08 - 2025-01-16
+title: Introduction
+tldr: "1)course overview; 2)multimedia applications; 3)media types; 4)challenges and research issues."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: to be updated
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
 -->
