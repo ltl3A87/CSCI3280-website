@@ -1,4 +1,3 @@
-<!--
 ---
 type: lecture
 date: 2025-01-08 - 2025-01-16
@@ -9,4 +8,3 @@ links:
     - url: to be updated
       name: slides
 ---
--->
