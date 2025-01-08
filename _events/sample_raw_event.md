@@ -1,4 +1,7 @@
-[//]: # (---)
+# Piazza Link:
+https://piazza.com/cuhk.edu.hk/spring2025/3280/home
+# Piazza Signup Link:
+https://piazza.com/cuhk.edu.hk/spring2025/3280
 
 [//]: # ()
 [//]: # (type: raw_event)
