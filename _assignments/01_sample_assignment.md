@@ -1,15 +1,24 @@
 <!--
 ---
 type: assignment
-date: 2025-01-06T4:00:00+4:30
-title: 'Assignment #1 - Sample Assignment'
-pdf: /static_files/assignments/asg.pdf
-attachment: /static_files/assignments/asg.zip
-solutions: /static_files/assignments/asg_solutions.pdf
+date: 2025-01-15T11:00:00+3:30
+title: Assignment 1
+
+# optional
+Materials on [GoogleDrive](https://colab.research.google.com/drive/1B-6XMdJGuUcYLDMJwMHXc8lk2tLjO-Me?usp=sharing
+)
+
+# optional
+Tutorial 1 [notebook](https://colab.research.google.com/drive/1zL7wrJ-j07KoXEg7rHDC-IJvcHewMjeO?usp=sharing)
+
+# optional
+# set it to true if you don't want this assignment to appear in the announcements section
+hide_from_announcments: false
+
 due_event: 
     type: due
-    date: 2025-01-13T23:59:00+3:30
-    description: 'Assignment #1 due'
+    date: 2025-xx-xxTx:xx:xx+4:30
+    description: 'Assignment 1 due'
 ---
-This is a sample assignment.
 -->
+
