@@ -470,6 +470,22 @@ a.tosu {
     }
   }
 
+  .tutorial-container {
+
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .thumbnail {
+      width: 120px;
+    }
+
+    .content {
+      flex: 1;
+    }
+  }
+
   .previous-offerings{
     list-style-type: none;
     
@@ -492,6 +508,16 @@ a.tosu {
   }
 
   .schedule-lecture-links {
+    font-weight: normal;
+    font-family: inherit;
+  }
+
+  .tutorial-links {
+      font-weight: bold;
+      font-family: 'Titillium Web', sans-serif;
+  }
+
+  .schedule-tutorial-links {
     font-weight: normal;
     font-family: inherit;
   }

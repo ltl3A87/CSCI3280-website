@@ -38,6 +38,8 @@ collections:
         output: false
     lectures:
         output: true
+    tutorials:
+        output: true
     assignments:
         output: false
     announcements:
