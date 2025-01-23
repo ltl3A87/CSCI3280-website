@@ -41,7 +41,7 @@ collections:
     tutorials:
         output: false
     assignments:
-        output: true
+        output: false
     announcements:
         output: false
 
