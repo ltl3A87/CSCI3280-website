@@ -2,7 +2,6 @@
 type: assignment
 date: 2025-01-23T9:00:00+3:30
 title: Assignment 1
-
 # set it to true if you don't want this assignment to appear in the announcements section
 hide_from_announcments: false
 ---
