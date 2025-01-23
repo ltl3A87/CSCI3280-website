@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-01-23T9:00:00+3:30
+date: 2025-01-23
 title: Assignment 1
 hide_from_announcments: false
 ---
