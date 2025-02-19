@@ -45,11 +45,11 @@ collections:
     lectures:
         output: true
     tutorials:
-        output: true
+        output: false
     assignments:
-        output: true
+        output: false
     announcements:
-        output: true
+        output: false
 
 
 defaults:
