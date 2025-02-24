@@ -48,6 +48,8 @@ collections:
         output: true
     tutorials:
         output: false
+    projects:
+        output: false
     assignments:
         output: false
     announcements:

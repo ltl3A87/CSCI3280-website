@@ -306,6 +306,10 @@ a.tosu {
         background-color: #f2dede;
     }
 
+    .table-row-project {
+        background-color: #f2dede;
+    }
+
     .col-1 {
         padding: 2px;
         flex-basis: 10%;
@@ -490,6 +494,22 @@ a.tosu {
     }
   }
 
+  .project-container {
+
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .thumbnail {
+      width: 110px;
+    }
+
+    .content {
+      flex: 1;
+    }
+  }
+
   .previous-offerings{
     list-style-type: none;
     
@@ -522,6 +542,16 @@ a.tosu {
   }
 
   .schedule-tutorial-links {
+    font-weight: normal;
+    font-family: inherit;
+  }
+
+  .project-links {
+      font-weight: bold;
+      font-family: 'Titillium Web', sans-serif;
+  }
+
+  .schedule-project-links {
     font-weight: normal;
     font-family: inherit;
   }

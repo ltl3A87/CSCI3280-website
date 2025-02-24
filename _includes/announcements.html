@@ -1,5 +1,6 @@
 {% assign all_events = site.events | concat: site.lectures %}
 {% assign all_events = all_events | concat: site.tutorials %}
+{% assign all_events = all_events | concat: site.projects %}
 {% assign all_events = all_events | concat: site.assignments %}
 
 {% assign events_to_show = "" | split: "" %}
@@ -25,6 +26,9 @@
             {% elsif n.type == 'tutorial' %}
                 New Tutorial is up: {{ n.title }}
                 {% include tutorial_links.html tutorial=n %}
+            {% elsif n.type == 'project' %}
+                Project is up: {{ n.title }}
+                {% include project_links.html project=n %}
             {% elsif n.type == 'assignment' %}
                 New Assignment released: {{ n.title }}
             {% else%}
