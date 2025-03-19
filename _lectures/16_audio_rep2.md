@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 13/03/2025
-title: Audio Representation(1)
+date: 19/03/2025
+title: Audio Representation(2)
 ---
 **Lecture Notes:**
-- [Lecture11 Audio Representation1](https://drive.google.com/file/d/1Zri2bCyfz2lnKAITvDIftHw7xQZOgoNF/view?usp=sharing)
+- [Lecture12 Audio Representation2](https://drive.google.com/file/d/1XpH6u-BoKVZCqlCgCaHXGDDb-J7wwhDJ/view?usp=sharing)
